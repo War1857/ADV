@@ -1,0 +1,6 @@
+resource "github_repository" "Terraform" {
+    name = "Terraform"
+    description = "My Awesome Codebase"
+    visibility = "public"
+  
+}

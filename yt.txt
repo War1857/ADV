@@ -1,0 +1,5 @@
+https://youtu.be/aHve0Ji13IY?si=YWFW4a_SV5WFcHah  -> Terraform with github
+https://youtu.be/uMVflNm3e9Q?si=BachXshXs36ntY33  -> SonarQube with Jenkins
+https://youtu.be/M64aA5Icuk4?si=rbFlJAcAaWZHI4j1  -> Kubernetes
+
+drive link -> https://drive.google.com/drive/folders/1OqD1e2j_3gW1ECSAXLZ0ctafUPiozh7r
